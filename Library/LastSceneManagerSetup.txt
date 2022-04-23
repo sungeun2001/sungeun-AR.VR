@@ -1,0 +1,6 @@
+sceneSetups:
+- path: "Assets/ar.vr \uB514\uC790\uC778\uD504\uB85C\uADF8\uB798\uBC0D \uC911\uAC04\uACE0\uC0AC
+    (202020386 \uD55C\uC131\uC740).unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
